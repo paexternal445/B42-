@@ -16,4 +16,3 @@ Create a virtual environment:
 Install dependencies:
 
 `pip install -r requirements. txt`
-
