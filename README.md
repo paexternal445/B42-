@@ -6,11 +6,14 @@ This repository provides the backend setup for a simple full-stack application, 
 Backend Setup
 
 Navigate to the backend folder:
+
 cd backend
 
 Create a virtual environment:
+
 python -m venv venv source venv/bin/activate
 
 Install dependencies:
+
 pip install -r requirements. txt
 
